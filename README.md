@@ -7,7 +7,7 @@ Author: Prabhat Kumar, Department of Mechanical and Aerospace Engineering, India
 1. Please see the paper: [P. Kumar (2024) TOPress3D: 3D topology optimization with design-dependent pressure loads in MATLAB, Optimizationa and Engineering, 2024](https://link.springer.com/article/10.1007/s11081-024-09931-2)
 2. MMA setting:
    
-TOPress3D uses (i) 2006 version of MMA written, which can be downloaded from https://www.smoptit.se/ and (ii) fsparse function (https://github.com/stefanengblom/stenglib), please see the instruction on installing fsparse in the MATLAB on page #9 of the paper, the last paragraph
+TOPress3D uses (i) 2006 version of MMA written, which can be downloaded from https://www.smoptit.se/ and (ii) fsparse function (https://github.com/stefanengblom/stenglib), please see the instruction on installing fsparse in the MATLAB on page #9, the last paragraph of the paper.
 
 ## Citation
 For citing the paper, please use the following bibtex format:
