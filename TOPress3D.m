@@ -156,33 +156,33 @@ patch(isosurface(isovals, 0.30),'FaceColor',[0.6 0.6 0.6],'EdgeColor','none');
 patch(isocaps(isovals, 0.30),'FaceColor','r','EdgeColor','none');
 view( 3 ); axis equal tight off; drawnow, camlight; 
 end
-	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	%    The code, TOPress3D,  is provided for  pedagogical purposes. A  detailed        %
-	%    description is presented in the paper:"TOPress3D: 3D topology optimization      %       
-	%    with design-dependent pressure loads in MATLAB"   Optimization and Engineering, % 
-	%     2024.                                                                          %
-	%    One can download the code and its extensions for the different problems         %
-	%    from the online supplementary material and also from:                           %
-	%                                      https://github.com/PrabhatIn/TOPress3D        %
-	%    Please send your comment to: pkumar@mae.iith.ac.in                              %
-	%    One may also refer to the following four papers:                                % 
-	%                                                                                    %
-	%    1. Kumar P, Frouws JS, Langelaar M (2020) Topology optimization of fluidic      %
-	%    pressure-loaded structures and compliant mechanisms using the Darcy method.     %
-	%    Structural and Multidisciplinary Optimization 61(4):1637-1655                   %
-	%    2. Kumar P, Langelaar M (2021) On topology optimization of design-dependent     % 
-	%    pressure-loaded three-dimensional structures and compliant mechanisms.          %
-	%    International Journal for Numerical Methods in Engineering 122(9):2205-2220     %
-	%    3. Kumar P. (2023) TOPress: a MATLAB implementation for topology optimization   %
-	%    of structures subjected to design-dependent pressure loads.                     % 
-	%    Structural and Multidisciplinary Optimization 66(4):97                          %
-	%    4. Kumar P. (2024) SoRoTop: a hitchhiker's guide to topology optimization       %
-	%    MATLAB code for design-dependent pneumatic-driven soft robots                   % 
-	%    Optimization and Engineering, 25:2473-2507(2024)                                %
-	%                                                                                    %
-	%    Disclaimer:                                                                     %
-	%    The author does not guarantee that the code is free from erros but reserves     %
-	%    all rights. Further, the author shall not be liable in any event caused by      % 
-	%    use of the above mentioned code and its extensions                              %
-	%                                                                                    %
-	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%    The code, TOPress3D,  is provided for  pedagogical purposes. A  detailed        %
+%    description is presented in the paper:"TOPress3D: 3D topology optimization      %       
+%    with design-dependent pressure loads in MATLAB"   Optimization and Engineering, % 
+%     2024.                                                                          %
+%    One can download the code and its extensions for the different problems         %
+%    from the online supplementary material and also from:                           %
+%                                      https://github.com/PrabhatIn/TOPress3D        %
+%    Please send your comment to: pkumar@mae.iith.ac.in                              %
+%    One may also refer to the following four papers:                                % 
+%                                                                                    %
+%    1. Kumar P, Frouws JS, Langelaar M (2020) Topology optimization of fluidic      %
+%    pressure-loaded structures and compliant mechanisms using the Darcy method.     %
+%    Structural and Multidisciplinary Optimization 61(4):1637-1655                   %
+%    2. Kumar P, Langelaar M (2021) On topology optimization of design-dependent     % 
+%    pressure-loaded three-dimensional structures and compliant mechanisms.          %
+%    International Journal for Numerical Methods in Engineering 122(9):2205-2220     %
+%    3. Kumar P. (2023) TOPress: a MATLAB implementation for topology optimization   %
+%    of structures subjected to design-dependent pressure loads.                     % 
+%    Structural and Multidisciplinary Optimization 66(4):97                          %
+%    4. Kumar P. (2024) SoRoTop: a hitchhiker's guide to topology optimization       %
+%    MATLAB code for design-dependent pneumatic-driven soft robots                   % 
+%    Optimization and Engineering, 25:2473-2507(2024)                                %
+%                                                                                    %
+%    Disclaimer:                                                                     %
+%    The author does not guarantee that the code is free from erros but reserves     %
+%    all rights. Further, the author shall not be liable in any event caused by      % 
+%    use of the above mentioned code and its extensions                              %
+%                                                                                    %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
